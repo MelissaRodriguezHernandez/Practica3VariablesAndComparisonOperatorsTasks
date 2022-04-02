@@ -28,7 +28,7 @@ Multiple two Int variables together
 
 `$IntVarNumber2 = 24`
 
-``$IntVarNumber1 * $IntVarNumber2`
+`$IntVarNumber1 * $IntVarNumber2`
 
 ![multiply](https://github.com/MelissaRodriguezHernandez/Practica3VariablesAndComparisonOperatorsTasks/blob/main/img/3.png)
 
