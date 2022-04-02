@@ -1,1 +1,1 @@
-# Practica3VariablesAndComparisonOperatorsTasks
+# Practica3 Variables And Comparison Operators Tasks
