@@ -1,4 +1,4 @@
-# Practica3 Variables And Comparison Operators Tasks
+# Variables And Comparison Operators Tasks
 
 ## - TASK 1 - 
 
